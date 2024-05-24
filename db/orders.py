@@ -30,7 +30,7 @@ class Orders():
                 'USD', 
                 'pending', 
                 '{address}', 
-                'in progress', 
+                'in_progress', 
                 CURDATE()
             );
         ''')
