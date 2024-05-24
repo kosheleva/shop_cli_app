@@ -6,6 +6,7 @@ A CLI app for imaginary jewelry shop, which includes DB connection and interacti
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 
 ## Installation
 
@@ -22,3 +23,8 @@ Then initialize MySQL database, using the script *db_init_script.sql* from the r
 ```sh
 python3 main.py
 ```
+
+## Demo
+
+https://github.com/kosheleva/shop_cli_app/assets/9432202/8db8e19c-1c51-4c5e-a1d6-d452983cdf97
+
